@@ -1,5 +1,4 @@
 package com.rajendra.courseapp;
-
 import android.content.Context;
 
 import androidx.test.platform.app.InstrumentationRegistry;
